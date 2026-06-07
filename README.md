@@ -40,17 +40,26 @@ I am a Computer Science & Engineering student (B.Tech '27) passionate about **Fu
 An interactive command-line interface tool that constructs complete B2B cold outreach sequences. It searches for companies (Apollo.io/Ocean.io), fetches C-Suite decision-makers, finds verified work emails (Prospeo), and triggers cold email outreach campaigns (Brevo) with built-in rate-limiting protection.
 * **Tech Stack:** Node.js, ESM, Inquirer, Axios, Chalk, Ora.
 
-### 🛡️ [Doom Shield](https://github.com/Benhur167/doom-shield) *(Coming Soon)*
+---
+
+## 📂 Highlighted Projects
+
+### 🤖 [Cold Outreach Pipeline CLI](https://github.com/Benhur167/cold-outreach-pipeline)
+An interactive command-line interface tool that constructs complete B2B cold outreach sequences. It searches for companies (Apollo.io/Ocean.io), fetches C-Suite decision-makers, finds verified work emails (Prospeo), and triggers cold email outreach campaigns (Brevo) with built-in rate-limiting protection.
+* **Tech Stack:** Node.js, ESM, Inquirer, Axios, Chalk, Ora.
+
+### 🛡️ [Doom Shield](https://github.com/Benhur167/doom-shield)
 A native Android application designed to combat screen addiction and doom-scrolling. Uses Android Accessibility Services to detect scrolling activity, monitors screen time, and displays real-time intervention overlays.
 * **Tech Stack:** Kotlin, Jetpack Compose, MVVM, Room Database, Hilt.
 
-### 💬 [Uplift](https://github.com/Benhur167/uplift) *(Coming Soon)*
+### 💬 [Uplift](https://github.com/Benhur167/uplift)
 A full-stack peer-to-peer emotional support platform featuring secure JWT authentication, role-based access control, and real-time conversation handling with an accessible, responsive UI.
 * **Tech Stack:** MongoDB, Express.js, React, Node.js (MERN), REST APIs.
 
-### 🎨 [Gesture Canvas](https://github.com/Benhur167/gesture-canvas) *(Coming Soon)*
+### 🎨 [Gesture Canvas](https://github.com/Benhur167/gesture-canvas)
 A real-time, gesture-controlled augmented reality drawing tool that tracks hand motions via OpenCV and classifies gestures in real-time using deep learning models.
 * **Tech Stack:** Python, OpenCV, Deep Learning.
+
 
 ---
 
