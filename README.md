@@ -79,9 +79,10 @@ A real-time, gesture-controlled augmented reality drawing tool that tracks hand 
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Benhur167&show_icons=true&theme=tokyonight&count_private=true" alt="Benhur's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benhur167&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.com/api?username=Benhur167&show_icons=true&theme=tokyonight&count_private=true" alt="Benhur's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.com/api/top-langs/?username=Benhur167&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
+
 
 ---
 
