@@ -34,11 +34,7 @@ I am a Computer Science & Engineering student (B.Tech '27) passionate about **Fu
 
 ---
 
-## 📂 Highlighted Projects
 
-### 🤖 [Cold Outreach Pipeline CLI](https://github.com/Benhur167/cold-outreach-pipeline)
-An interactive command-line interface tool that constructs complete B2B cold outreach sequences. It searches for companies (Apollo.io/Ocean.io), fetches C-Suite decision-makers, finds verified work emails (Prospeo), and triggers cold email outreach campaigns (Brevo) with built-in rate-limiting protection.
-* **Tech Stack:** Node.js, ESM, Inquirer, Axios, Chalk, Ora.
 
 ---
 
